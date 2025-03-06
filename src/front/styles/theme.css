@@ -1,0 +1,47 @@
+.container-dark {
+    background-color: #919090;
+    color: black;
+    width: 50%;
+    padding: 30px;
+    border-radius: 8px;
+}
+
+.navbar {
+    height: 90px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.navbar .btn {
+    font-size: 20px;
+    padding: 15px 30px;
+}
+
+.btn-large {
+    font-size: 20px;
+    padding: 20px 40px;
+    border-radius: 8px;
+    margin-top: 80px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.theme-text {
+    font-size: 22px;
+}
+
+.custom-label {
+    font-size: 22px;
+}
+
+.custom-input {
+    font-size: 24px;
+}
